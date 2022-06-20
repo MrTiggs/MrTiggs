@@ -8,7 +8,7 @@
 - 👀 Tenho interesse em: **React**, **TypeScript**, **NodeJS**. e um pouco mais
 - 🖐️ Em Busca de uma oportunidade para desenvolver e melhorar meus conhecimentos, e também algo que possa me instruir de forma crescente e contínua, visando sempre o crescimento da empresa, e também o meu crescimento Profissional.
  
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
@@ -23,8 +23,8 @@
   </div>
 <div align="center">  
   <a href="https://github.com/MrTiggs">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=MrTiggs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTiggs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MrTiggs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTiggs&layout=compact&langs_count=7&theme=dark"/>
 </div> 
   
 
